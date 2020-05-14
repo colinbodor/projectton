@@ -1,0 +1,2 @@
+# projectton
+Project TON is a Border Gateway Protocol (BGP) speaking black hole service. Essentially, we provide a real time, globally distributed list of bad actors on the internet. This allows users of Project TON to block unwanted, malicious or invalid traffic at the perimeter of their networks while taking the load off firewalls and internal security systems. Corporations, businesses, universities and end users are all invited to establish a BGP session with Project TON using the configuration examples provided.
